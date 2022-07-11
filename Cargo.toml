@@ -1,0 +1,14 @@
+[package]
+name = "snake-pixels"
+version = "0.1.0"
+edition = "2021"
+license = "mit"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winit = "0.26.1"
+pixels = "0.9.0"
+
+image = "0.24.2"
+imageproc = "0.23.0"
